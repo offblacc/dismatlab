@@ -1,11 +1,6 @@
 from __future__ import print_function  # python3 style print (for easier printing of distances)
 from itertools import permutations
 
-"""
-Run with python2.7/pypy (using pypy for faster execution and more efficient memory usage)
-"""
-
-
 # -------------------------------- functions -----------------------------
 
 def tezina_brida(k, l):  # parametar k i parametar l su indexi vrhova koje brid spaja
